@@ -1,13 +1,23 @@
-## Getting Started
+<h1 align="center">Push Notification Next.js</h1>
 
-run the development server:
+Implementasi push notification pada aplikasi Next.js menggunakan [web-push](https://github.com/web-push-libs/web-push) dan [VAPID](https://github.com/web-push-libs/vapid).
+
+## Demo
+
+| Notif Diterima Lock Screen | Notif Diterima Open Message |
+|--------------|---------------------|
+| ![Demo1](https://raw.githubusercontent.com/fajarhide/nextjs-push-notif/main/demo/demo1.webp) | ![Demo2](https://raw.githubusercontent.com/fajarhide/nextjs-push-notif/main/demo/demo2.webp) |
+
+## Cara Memulai
+
+Jalankan server development:
 
 ```bash
 npm run dev
 ```
 
-By running this script, `generateVapidKeys.js` will be executed, and the VAPID keys will be written into the `.env.local` file.
+Dengan menjalankan perintah ini:
+- Script `generateVapidKeys.js` akan dijalankan otomatis
+- Kunci VAPID akan dibuat dan disimpan ke file `.env.local`
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-Note: If you are using the Brave Browser, you'll need to enable push messaging in your settings. For more details, please refer to this [Stack Overflow post](https://stackoverflow.com/a/69624651/11703800).
+Buka [http://localhost:3000](http://localhost:3000) di browser untuk melihat hasilnya.
