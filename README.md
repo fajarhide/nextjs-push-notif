@@ -6,7 +6,7 @@ Implementasi push notification pada aplikasi Next.js menggunakan [web-push](http
 
 | Notif Diterima Lock Screen | Notif Diterima Open Message |
 |--------------|---------------------|
-| ![Demo1](https://raw.githubusercontent.com/fajarhide/nextjs-push-notif/main/demo/demo1.webp) | ![Notification Received](https://raw.githubusercontent.com/fajarhide/nextjs-push-notif/main/demo/demo2.webp) |
+| ![Demo1](https://raw.githubusercontent.com/fajarhide/nextjs-push-notif/main/demo/demo1.webp) | ![Demo2](https://raw.githubusercontent.com/fajarhide/nextjs-push-notif/main/demo/demo2.webp) |
 
 ## Cara Memulai
 
@@ -21,8 +21,3 @@ Dengan menjalankan perintah ini:
 - Kunci VAPID akan dibuat dan disimpan ke file `.env.local`
 
 Buka [http://localhost:3000](http://localhost:3000) di browser untuk melihat hasilnya.
-
-## Catatan Penting
-
-Jika menggunakan Browser Brave, Anda perlu mengaktifkan push messaging di pengaturan. 
-Untuk detail lebih lanjut, silakan lihat [postingan Stack Overflow ini](https://stackoverflow.com/a/69624651/11703800).
