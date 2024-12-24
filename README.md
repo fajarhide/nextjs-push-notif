@@ -6,7 +6,7 @@ Implementasi push notification pada aplikasi Next.js menggunakan [web-push](http
 
 | Notif Diterima Lock Screen | Notif Diterima Open Message |
 |--------------|---------------------|
-| ![Demo1](https://raw.githubusercontent.com/fajarhide/nextjs-push-notif/main/demo/demo1.webp) | ![Demo2](https://raw.githubusercontent.com/fajarhide/nextjs-push-notif/main/demo/demo2.webp) |
+| ![Demo1](https://raw.githubusercontent.com/fajarhide/nextjs-push-notif/refs/heads/main/demo/demo1.webp) | ![Demo2](https://raw.githubusercontent.com/fajarhide/nextjs-push-notif/refs/heads/main/demo/demo2.webp) |
 
 ## Cara Memulai
 
