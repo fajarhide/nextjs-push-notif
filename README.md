@@ -1,6 +1,6 @@
-# Push Notification Next.js
+<h1 align="center">Push Notification Next.js</h1>
 
-Implementasi push notification pada aplikasi Next.js menggunakan web-push.
+Implementasi push notification pada aplikasi Next.js menggunakan [web-push](https://github.com/web-push-libs/web-push) dan [VAPID](https://github.com/web-push-libs/vapid).
 
 ## Demo
 
