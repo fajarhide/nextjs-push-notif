@@ -4,11 +4,9 @@ Implementasi push notification pada aplikasi Next.js menggunakan [web-push](http
 
 ## Demo
 
-![Demo Push Notification](https://raw.githubusercontent.com/yourusername/push-notification-nextjs/main/demo/preview.gif)
-
-| Meminta Izin | Notifikasi Diterima |
+| Notif Diterima Lock Screen | Notif Diterima Open Message |
 |--------------|---------------------|
-| ![Request Permission](https://raw.githubusercontent.com/yourusername/push-notification-nextjs/main/demo/request.png) | ![Notification Received](https://raw.githubusercontent.com/yourusername/push-notification-nextjs/main/demo/notification.png) |
+| ![Demo1](https://raw.githubusercontent.com/fajarhide/nextjs-push-notif/main/demo/demo1.webp) | ![Notification Received](https://raw.githubusercontent.com/fajarhide/nextjs-push-notif/main/demo/demo2.webp) |
 
 ## Cara Memulai
 
